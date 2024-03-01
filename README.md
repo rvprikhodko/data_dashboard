@@ -1,6 +1,6 @@
 # fastapi_dashboard
 
-## FastAPI + dash PET Project
+## FastAPI + dash Internship Final Project
 
 Фулл-стэк проект, написанный с помощью FastAPI и dash, который решает базовые задачи предсказания данных с помощью машинного обучения
 
